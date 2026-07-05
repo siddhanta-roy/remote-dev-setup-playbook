@@ -994,13 +994,13 @@ ssh-copy-id -i key user@host # install public key
 
 ## Closing Thoughts
 
-The setup you just performed is not a one-time chore. It is a **skill**. Every organization you join, every new project you start, every new server you get access to — the same pattern applies. Once, in an afternoon, you learned it deeply enough that reproducing it takes minutes.
+The setup you just performed is not a one-time chore. It is a **skill**. Every organization you join, every new project you start, every new server you get access to, the same pattern applies. Once, in an afternoon, you learned it deeply enough that reproducing it takes minutes.
 
 Three habits that separate professionals from copy-paste engineers:
 
 1. **Understand what each command does before running it.** Never paste a command from the internet without asking "what does this do to my system?" This guide's "why" sections exist so that even the pasted commands here you understand.
 
-2. **Keep your setup reproducible.** `requirements.txt`, `.gitignore`, `RESTART.md`, dotfiles in a git repo — all of these together let you re-create your environment on any machine in an hour. Without them, you're rebuilding from memory every time.
+2. **Keep your setup reproducible.** `requirements.txt`, `.gitignore`, `RESTART.md`, dotfiles in a git repo, all of these together let you re-create your environment on any machine in an hour. Without them, you're rebuilding from memory every time.
 
 3. **Fail loudly and locally.** When something breaks, don't panic and start `sudo`-ing things. Look at the error message. Isolate which of the three layers (laptop, network, remote) is failing. Fix the smallest possible thing. This discipline gets you unstuck in minutes instead of hours.
 
