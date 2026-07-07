@@ -1008,4 +1008,12 @@ Good luck. Everything you build on top of this foundation will be easier because
 
 ---
 
+
+## Learnings from Applying This Playbook
+
+The `learnings/` folder captures milestone-by-milestone reflections from using this playbook on real projects.
+
+- [2026-07-07: PINN Skeleton, CI, and Portfolio](learnings/2026-07-07-pinn-skeleton-and-ci.md)
+
+
 *End of playbook.*
