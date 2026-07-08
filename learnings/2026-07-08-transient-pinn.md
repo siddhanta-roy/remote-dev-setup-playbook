@@ -154,4 +154,8 @@ Target: 1D nonlinear transient, MMS-validated, L2 < 5e-3.
 
 ---
 
+**Continues from:** [2026-07-07-pinn--skeleton-and-ci.md](./2026-07-07-pinn--skeleton-and-ci.md) — the steady-state PINN skeleton and CI foundation this milestone builds on.
+
+---
+
 *Written 2026-07-08 by Siddhanta Roy, GlobalFoundries Bangalore.*
