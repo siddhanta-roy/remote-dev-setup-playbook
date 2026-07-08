@@ -1013,7 +1013,10 @@ Good luck. Everything you build on top of this foundation will be easier because
 
 The `learnings/` folder captures milestone-by-milestone reflections from using this playbook on real projects.
 
-- [2026-07-07: PINN Skeleton, CI, and Portfolio](learnings/2026-07-07-pinn-skeleton-and-ci.md)
+**PINN series** — building a Physics-Informed Neural Network for GaN HEMT self-heating, one physics milestone at a time. Applied repo: [pinn-gan-selfheating](https://github.com/siddhanta-roy/pinn-gan-selfheating).
+
+- [learnings/2026-07-07-pinn-skeleton-and-ci.md](learnings/2026-07-07-pinn-skeleton-and-ci.md) — Day 1: 1D steady heat equation, modular src/ package, 5-test pytest suite, green GitHub Actions CI.
+- [learnings/2026-07-08-transient-pinn.md](learnings/2026-07-08-transient-pinn.md) — Day 2: extension to the transient case, causality-aware IC weighting, animated T(x,t), shipping-mode debugging lessons.
 
 
 *End of playbook.*
