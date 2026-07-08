@@ -201,3 +201,7 @@ git config --global https.proxy "http://uswwwp1.gfoundries.com:80"
 5. **Full HEMT stack** — substrate + buffer + channel, material interfaces.
 
 Each is an incremental modification of the skeleton — the hard scaffolding is done.
+
+---
+
+**Continues in:** [2026-07-08-transient-pinn.md](./2026-07-08-transient-pinn.md) — extension to the transient case, causality anchoring, and shipping gotchas.
